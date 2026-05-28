@@ -17,3 +17,4 @@ Notes and usage details for phpvm.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
